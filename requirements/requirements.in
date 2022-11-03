@@ -1,0 +1,4 @@
+py4ai-config>0.0.1
+setuptools>=61.2
+tomli>=2.0.1
+typing-extensions>=4.0
